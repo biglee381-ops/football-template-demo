@@ -1,0 +1,51 @@
+
+body.light-mode h2 {
+  border-left: 4px solid #00cc6a;
+}
+
+/* LIGHT MODE BASE */
+body.light-mode {
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+/* NAVBAR */
+body.light-mode nav {
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+/* CARDS */
+body.light-mode .transfer-card,
+body.light-mode .fixture-card,
+body.light-mode .score-card {
+  background: #ffffff;
+  color: #0f172a;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+/* HOVER EFFECT (LIGHT MODE) */
+body.light-mode .transfer-card:hover,
+body.light-mode .fixture-card:hover,
+body.light-mode .score-card:hover {
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+/* INPUTS (SEARCH + CONTACT) */
+body.light-mode input,
+body.light-mode textarea {
+  background: #ffffff;
+  color: #000;
+  border: 1px solid #ddd;
+}
+
+/* BUTTON */
+body.light-mode button {
+  background: #00cc6a;
+  color: white;
+}
+
+/* LINKS */
+body.light-mode a {
+  color: #0f172a;
+}

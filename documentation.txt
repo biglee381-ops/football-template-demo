@@ -1,0 +1,78 @@
+⚽ Football Website Template – Documentation
+
+Welcome! This guide will help you set up and customize your template easily.
+
+📂 Folder Structure
+
+/css → Stylesheets
+
+/js → JavaScript files
+
+/images → All images
+
+index.html → Homepage
+
+🚀 Getting Started
+
+Extract the ZIP file
+
+Open index.html in your browser
+
+Edit files using a code editor
+
+🛠️ Customization Guide
+
+🔹 Change Logo
+
+Open index.html
+
+Find logo section
+
+Replace text or image
+
+🔹 Edit Navigation Menu
+
+Locate <nav> section
+
+Update menu links
+
+🔹 Update News Section
+
+Find news card block
+
+Duplicate and edit content
+
+🔹 Change Colors
+
+Open /css/style.css
+
+Replace color codes
+
+🔹 Add New Pages
+
+Duplicate an HTML file
+
+Rename and edit
+
+📱 Responsive Layout
+
+Fully optimized for:
+
+Mobile
+
+Tablet
+
+Desktop
+
+⚡ Tips
+
+Use optimized images for faster loading
+
+Keep file names simple
+
+Test on different screen sizes
+
+❓ Need Help?
+
+Contact: luckyemma127@gmail.com
+Thank you for choosing this template 💙

@@ -1,0 +1,106 @@
+⚽ Football News Website Template
+
+Thank you for purchasing this template 🙌
+This template is designed to help you quickly launch a modern football/sports website.
+
+📦 What's Included
+
+HTML files
+
+CSS files
+
+JavaScript files
+
+Images & icons
+
+Demo layout
+
+🚀 How to Use
+
+1. Extract Files
+
+Download the ZIP file
+
+Extract it to any folder on your computer
+
+2. Open the Website
+
+Locate index.html
+
+Double-click to open in your browser
+
+3. Edit Content
+
+📝 Change Text
+
+Open any .html file using: 
+
+Notepad
+
+VS Code (recommended)
+
+Edit text directly inside the file
+
+🖼️ Change Images
+
+Go to the images folder
+
+Replace images with your own
+
+Keep the same file names OR update in HTML
+
+🎨 Change Colors
+
+Open style.css
+
+Find color codes (e.g. #000, #fff)
+
+Replace with your preferred colors
+
+📰 Add News Posts
+
+Duplicate a news card section in HTML
+
+Replace: 
+
+Title
+
+Image
+
+Description
+
+📱 Responsive Design
+
+This template works on:
+
+Mobile phones
+
+Tablets
+
+Desktop
+
+⚙️ Requirements
+
+Any web browser (Chrome, Edge, etc.)
+
+Basic HTML/CSS knowledge (optional but helpful)
+
+📞 Support
+
+If you have any issues or questions:
+Contact: your-email@example.com
+
+📜 License
+
+You can use this template for personal or client projects
+
+You cannot resell or redistribute this template
+
+🙌 Thank You
+
+If you like this template, please consider leaving a review 💙
+
+
+
+
+
